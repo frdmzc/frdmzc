@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python and Data Science
 - 🌱 I’m currently learning Flask
 - 💞️ I’m looking to collaborate on building websites
-- 📫 How to reach me t.me/zc_farid
+- 📫 How to reach me: t.me/zc_farid
 - 😄 Pronouns: FARID
 - ⚡ Fun fact: I did change my university major from computer engineering to insustrial engineering: systems analysis and it turned to be a pivotal transition!
 
